@@ -81,6 +81,7 @@ brew "zstd"
 cask "alt-tab"
 cask "cleanshot"
 cask "docker-desktop"    # Docker Desktop (replaces Docker.app)
+cask "displaylink"
 cask "hiddenbar"
 cask "iterm2"
 cask "itsycal"

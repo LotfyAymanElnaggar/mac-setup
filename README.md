@@ -34,6 +34,7 @@ chmod +x install.sh
 | **AltTab** | Windows-style alt-tab switcher |
 | **CleanShot** | Screenshot & recording tool |
 | **Docker Desktop** | Container management |
+| **DisplayLink Manager** | External display driver/manager |
 | **Hidden Bar** | Hide menu bar icons |
 | **iTerm2** | Terminal emulator |
 | **Itsycal** | Tiny menu bar calendar |
@@ -133,5 +134,5 @@ mac-setup/
 | **Generated** | February 20, 2026 |
 | **Architecture** | Apple Silicon (arm64) |
 | **Homebrew Formulae** | 68 packages |
-| **Homebrew Casks** | 10 apps |
+| **Homebrew Casks** | 11 apps |
 | **Applications** | 50+ total |
